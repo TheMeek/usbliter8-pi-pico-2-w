@@ -14,12 +14,10 @@ Currently available firmware includes:
 - Waveshare RP2350-USB-A
 - Waveshare RP2350-USB-C
 - Waveshare RP2350-USB-CM
-- Waveshare RP2350-USB-CM
 - Waveshare RP2350-Zero
 - Waveshare RP2350-Pizero
 - Raspberry Pi Pico 2
 - Pimoroni Tiny2350
-- Community builds for other RP2350 boards (when available)
 
 ## Firmware
 
